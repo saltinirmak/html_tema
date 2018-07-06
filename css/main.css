@@ -12,13 +12,3 @@ height: 320px;
 .ortak img{
   height: 2rem;
 }
-
-.row .input-field input:focus {
-  border-bottom: 1px solid #B71C1C!important;
-  box-shadow: 0 1px 0 0 #B71C1C !important
-}
-
-#textarea1:focus {
-  border-bottom: 1px solid #B71C1C;
-  box-shadow: 0 1px 0 0 #B71C1C;
-}
