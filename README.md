@@ -1,1 +1,0 @@
-![Ekran Görüntüsü](http://i.hizliresim.com/5yVaJq.png)
