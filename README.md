@@ -1,1 +1,1 @@
-![Ekran Görüntüsü](http://i.hizliresim.com/5yVaJq.png)
+![Ekran Görüntüsü](https://github.com/saltinirmak/html_tema/master/img/tema.png)
